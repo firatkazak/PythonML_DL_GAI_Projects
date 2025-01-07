@@ -48,3 +48,4 @@ print(rmse)  # Hata değeri yazdırılıyor. Bu, modelin tahmin performansını 
 # Gizli katmanlar ve nöron sayıları modelin karmaşıklığını belirler.
 # StandardScaler: Verileri standartlaştırır, yani ortalaması 0, standart sapması 1 olacak şekilde ölçekler.
 # Pipeline: Adımları sırayla uygulayan bir yapı. Burada önce veri standartlaştırılıyor, sonra model eğitiliyor veya tahmin yapılıyor.
+
