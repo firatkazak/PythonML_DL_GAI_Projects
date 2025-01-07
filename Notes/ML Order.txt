@@ -1,0 +1,46 @@
+01) DataAnalysis.py
+02) SKLearnFundamentals1.py
+03) SKLearnFundamentals2.py
+04) SKLearnFundamentals3.py
+05) FutureEngineering.py
+06) MachineLearningFundamentals.py
+07) PythonML.py
+08) MachineLearning101.py
+09) KNN.py
+10) LinearRegression.py
+11) RidgeLassoElasticnet.py
+12) LogisticRegressionLinearSVM.py
+13) LogisticRegressionAnalysis.py
+14) NaiveBayesClassifier.py
+15) SupportVectorMachine.py
+16) DecisionTrees.py
+17) EnsembleLearning.py
+18) ArtificialNeuralNetwork.py
+19) ULandDS.py
+20) PrincipalComponentAnalysis.py
+21) ManifoldLearning.py
+22) Clustering1.py
+23) Clustering2.py
+24) Clustering3.py
+25) CrossValidation.py
+26) ModelImprovement.py
+27) EvaluationMetrics.py
+28) Pipeline.py
+29) TextMining.py
+30) NLTK.py
+31) HyperparametersandModelValidation.py
+32) PyCaret.py
+33) MLProject1.py
+34) MLProject2.py
+35) MLProject3.py
+36) MLProject4.py
+37) MLProject5.py
+38) MLProject6.py
+
+39) BigQuery.py YAPILMADI
+
+veri = pd.read_csv(filepath_or_buffer="C:/Users/firat/OneDrive/Belgeler/Projects/PythonMLProjects/Projects/Gerekliler/student-mat.csv", sep=';')
+
+import os
+
+os.environ["LOKY_MAX_CPU_COUNT"] = "6"
